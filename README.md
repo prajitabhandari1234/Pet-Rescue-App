@@ -18,13 +18,23 @@ Pet Rescue App is a simple web application built with PHP and MySQL, designed to
 
 ## File Structure  
 ├── add.php — Form & logic for adding a new pet
+
 ├── edit.php — Form & logic for updating pet information
+
 ├── delete.php — Logic for deleting a pet entry
+
 ├── home.php — Main page listing all rescued pets
+
 ├── login.php — Login form and authentication logic
+
 ├── logout.php — Logout logic
+
 ├── db.php — Database connection script
+
 ├── test_db.php — Optional script to test the database connection
+
 ├── header.php — Common header file
+
 ├── footer.php — Common footer file
+
 └── styles.css — CSS stylesheet for styling the app
